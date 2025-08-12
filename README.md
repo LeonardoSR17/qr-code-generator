@@ -20,4 +20,4 @@ Você pode editar a página modificando o arquivo ````app/page.tsx````, as alter
 
 ## Visualizar o projeto
 
-Acesse o projeto online: 
+Acesse o projeto online: https://qr-code-generator-rho-lemon.vercel.app/
